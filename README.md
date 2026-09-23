@@ -20,3 +20,5 @@
 │   ├── requirements.txt  
 │   └── train.py  
 └── README.md  
+
+>注：PDF可能打不开，需要下载后才看得到
